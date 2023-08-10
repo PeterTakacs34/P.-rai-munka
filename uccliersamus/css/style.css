@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Merriweather:ital,wght@1,900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.750);
+  max-width: 1200px;
+  height: 1000px;
+  margin: 0 auto;
+  padding: 50px;
+  color: aliceblue;
+  overflow-x: hidden;
+  overflow-y:auto;
+
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+}
+
+nav {
+  background-color: #34676A;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+nav a:hover {
+  background-color: rgb(231, 206, 63);
+}
+
+h1{
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+.szoveg {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h2{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    font-family: 'Calistoga', cursive;
+    padding-top: 200px;
+}
+
